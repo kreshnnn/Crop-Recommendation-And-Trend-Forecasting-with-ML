@@ -13,7 +13,7 @@ df.head()
 # General statistics
 print(df.describe())
 
-# Check for any remaining missing values
+# Check for any of the remaining missing values
 print(df.isnull().sum())
 
 #--------x-------x-------x-------x-------x-------x-------x-------x-------x-------x-------x-------x-------x-------x
