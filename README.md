@@ -77,7 +77,7 @@ The model was trained using the **Random Forest Classifier** from `scikit-learn`
 
 ## Applications
 
-- Crop Recommendation: Suggests the most suitable crops based on various environmental and soil conditions.
+  - Crop Recommendation: Suggests the most suitable crops based on various environmental and soil conditions.
 - Agricultural Planning: Helps farmers and agricultural stakeholders make informed decisions by recommending the best crops for specific regions and seasons.
 - Data-Driven Farming: Bridges the gap between traditional agricultural practices and modern data science, helping farmers optimize their farming methods.
 - Resource Allocation: Assists in efficient use of land, water, and other resources by recommending crops best suited to the local conditions.
