@@ -111,4 +111,4 @@ Completed — The core functionality of crop recommendation has been implemented
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Thank You!
+## Thank You! 
