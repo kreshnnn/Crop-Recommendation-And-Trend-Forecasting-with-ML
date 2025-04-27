@@ -74,3 +74,30 @@ The model was trained using the **Random Forest Classifier** from `scikit-learn`
 1. Clone this repository:
    ```bash
    git clone https://github.com/kreshnnn/Crop-Recommendation-and-Trend-Forecasting-with-ML.git
+
+## Applications
+
+- Crop Recommendation: Suggests the most suitable crops based on various environmental and soil conditions.
+- Agricultural Planning: Helps farmers and agricultural stakeholders make informed decisions by recommending the best crops for specific regions and seasons.
+- Data-Driven Farming: Bridges the gap between traditional agricultural practices and modern data science, helping farmers optimize their farming methods.
+- Resource Allocation: Assists in efficient use of land, water, and other resources by recommending crops best suited to the local conditions.
+
+## Advantages
+
+- Increased Efficiency: By recommending crops that are suitable for specific regions, the project helps improve farming efficiency and yield.
+- Optimized Resource Use: Helps farmers utilize their resources more effectively by selecting crops that match their environmental conditions.
+- Scalable: The model can be easily scaled to cover more regions by updating the dataset with local agricultural data.
+- Future-Proofing: As agricultural trends and environmental conditions evolve, the model can be continuously updated to ensure accurate predictions.
+
+## Limitations
+
+- Data Quality: The model's effectiveness is dependent on the quality and completeness of the dataset. Missing or outdated data may reduce the model's accuracy.
+- Environmental Factors: The model does not account for unforeseen environmental factors such as extreme weather events, pests, or diseases.
+- Short-Term Focus: The model primarily focuses on short-term crop recommendations, and longer-term trends are harder to predict accurately without more advanced forecasting methods.
+
+## Future Scope
+
+- Real-Time Data: Integrating real-time weather data and other external sources for more dynamic crop recommendations.
+- Disease and Pest Prediction: Adding features that help predict pests and diseases to assist farmers with proactive crop management.
+- Advanced Forecasting Models: Implementing more complex models (e.g., neural networks or deep learning) to improve the accuracy of trend forecasting over a longer period.
+- Mobile Application: Developing a mobile app to make crop recommendations accessible to farmers in remote areas, providing them with real-time advice.
