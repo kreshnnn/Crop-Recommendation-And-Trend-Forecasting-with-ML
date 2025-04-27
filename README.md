@@ -6,7 +6,7 @@ This project uses machine learning techniques to recommend suitable crops based 
 
 Additionally, the project forecasts agricultural trends using historical data, helping stakeholders make informed decisions on crop planning, resource allocation, and market strategies.
 
-Built with **Pandas**, **Numpy**, **Scikit-learn**, **Matplotlib**, and **Seaborn**, this project merges traditional agricultural insights with modern machine learning techniques to optimize crop selection and forecast agricultural trends.
+Built with **Pandas**, **Numpy**, **Scikit-learn**, **Matplotlib**, and **Seaborn**, this project uses the principles of **Random Forest** & merges traditional agricultural insights with modern machine learning techniques to optimize crop selection and forecast agricultural trends.
 
 ## Table of Contents
 
