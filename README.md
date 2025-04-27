@@ -101,3 +101,17 @@ The model was trained using the **Random Forest Classifier** from `scikit-learn`
 - Disease and Pest Prediction: Adding features that help predict pests and diseases to assist farmers with proactive crop management.
 - Advanced Forecasting Models: Implementing more complex models (e.g., neural networks or deep learning) to improve the accuracy of trend forecasting over a longer period.
 - Mobile Application: Developing a mobile app to make crop recommendations accessible to farmers in remote areas, providing them with real-time advice.
+
+## Contributions
+
+Contributions are welcome! Feel free to fork the repository, create issues, and submit pull requests to improve the functionality, add new features, or enhance the model.
+
+## Project Status
+
+Completed — The core functionality of crop recommendation has been implemented. Further enhancements, including additional features and advanced forecasting, are encouraged.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
