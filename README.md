@@ -10,18 +10,18 @@ Built with **Pandas**, **Numpy**, **Scikit-learn**, **Matplotlib**, and **Seabor
 
 ## Table of Contents
 
-1. Built With(#built-with)
-2. Dataset(#dataset)
-3. Methodology(#methodology)
-4. Model Training(#model-training)
-5. Usage(#usage)
-6. Applications(#applications)
-7. Advantages(#advantages)
-8. Limitations(#limitations)
-9. Future Scope(#future-scope)
-10. Contributions(#contributions)
-11. Project Status(#project-status)
-12. License(#license)
+1. [Built With](#built-with)
+2. [Dataset](#dataset)
+3. [Methodology](#methodology)
+4. [Model Training](#model-training)
+5. [Usage](#usage)
+6. [Applications](#applications)
+7. [Advantages](#advantages)
+8. [Limitations](#limitations)
+9. [Future Scope](#future-scope)
+10. [Contributions](#contributions)
+11. [Project Status](#project-status)
+12. [License](#license)
 
 ## Built With
 
@@ -111,4 +111,4 @@ Completed — The core functionality of crop recommendation has been implemented
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-
+## Thank You!
